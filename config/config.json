@@ -1,0 +1,6 @@
+{"development": {
+    "password": "postgres"
+},
+"production": {
+"password": "postgres"
+}}
